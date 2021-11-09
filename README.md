@@ -1,6 +1,6 @@
 ### Hi there, I'm Dakianth - aka [Dakianth][website] 👋
 
-## Game Design & .Net Developer
+## Software Architect, .net Developer and Game Designer
 
 - 🔭 I’m currently working on something...
 - 🌱 I’m currently learning everything 🤣
