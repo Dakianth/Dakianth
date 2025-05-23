@@ -27,7 +27,7 @@
 <br />
 -->
 
-[website]:https://www.dakianth.net/
+[website]: https://dakianth.com/
 [twitter]: https://twitter.com/Dakianth
 [youtube]: https://youtube.com/Dakianth
 [instagram]: https://instagram.com/Dakianth
